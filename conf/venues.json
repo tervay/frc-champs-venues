@@ -1,0 +1,1004 @@
+[
+  {
+    "name": "McCormick Place",
+    "city": "Chicago",
+    "exhibitionSpace": 2670000,
+    "totalSpace": 9000000
+  },
+  {
+    "name": "Orange County Convention Center",
+    "city": "Orlando, FL",
+    "exhibitionSpace": 2100000,
+    "totalSpace": 7000000
+  },
+  {
+    "name": "Las Vegas Convention Center",
+    "city": "Las Vegas",
+    "exhibitionSpace": 2500000,
+    "totalSpace": 4600000
+  },
+  {
+    "name": "Georgia World Congress Center",
+    "city": "Atlanta",
+    "exhibitionSpace": 1500000,
+    "totalSpace": 3900000
+  },
+  {
+    "name": "Jacob K. Javits Convention Center",
+    "city": "New York City",
+    "exhibitionSpace": 850000,
+    "totalSpace": 3300000
+  },
+  {
+    "name": "Ernest N. Morial Convention Center",
+    "city": "New Orleans",
+    "exhibitionSpace": 1100000,
+    "totalSpace": 3100000
+  },
+  {
+    "name": "America's Center",
+    "city": "St. Louis",
+    "exhibitionSpace": 523000,
+    "totalSpace": 2700000
+  },
+  {
+    "name": "San Diego Convention Center",
+    "city": "San Diego",
+    "exhibitionSpace": 615700,
+    "totalSpace": 2600000
+  },
+  {
+    "name": "Huntington Place",
+    "city": "Detroit",
+    "exhibitionSpace": 723500,
+    "totalSpace": 2400000
+  },
+  {
+    "name": "Walter E. Washington Convention Center",
+    "city": "Washington, DC",
+    "exhibitionSpace": 703000,
+    "totalSpace": 2300000
+  },
+  {
+    "name": "Venetian",
+    "city": "Las Vegas",
+    "exhibitionSpace": 936600,
+    "totalSpace": 2250000
+  },
+  {
+    "name": "International Exposition Center",
+    "city": "Cleveland",
+    "exhibitionSpace": 1000000,
+    "totalSpace": 2200000
+  },
+  {
+    "name": "Colorado Convention Center",
+    "city": "Denver",
+    "exhibitionSpace": 584000,
+    "totalSpace": 2200000
+  },
+  {
+    "name": "Mandalay Bay Convention Center",
+    "city": "Clark County",
+    "exhibitionSpace": 861231,
+    "totalSpace": 2100000
+  },
+  {
+    "name": "Music City Center",
+    "city": "Nashville, Tennessee",
+    "exhibitionSpace": 350000,
+    "totalSpace": 2100000
+  },
+  {
+    "name": "Convention Center",
+    "city": "Dallas",
+    "exhibitionSpace": 1000000,
+    "totalSpace": 2000000
+  },
+  {
+    "name": "Pennsylvania Convention Center",
+    "city": "Philadelphia",
+    "exhibitionSpace": 1000000,
+    "totalSpace": 2000000
+  },
+  {
+    "name": "Moscone Convention Center",
+    "city": "San Francisco",
+    "exhibitionSpace": 700000,
+    "totalSpace": 2000000
+  },
+  {
+    "name": "George R. Brown Convention Center",
+    "city": "Houston",
+    "exhibitionSpace": 853000,
+    "totalSpace": 1800000
+  },
+  {
+    "name": "Greater Columbus Convention Center",
+    "city": "Columbus, OH",
+    "exhibitionSpace": 447000,
+    "totalSpace": 1800000
+  },
+  {
+    "name": "Anaheim Convention Center",
+    "city": "Anaheim, CA",
+    "exhibitionSpace": 815000,
+    "totalSpace": 1600000
+  },
+  {
+    "name": "Henry B. Gonzalez Convention Center",
+    "city": "San Antonio",
+    "exhibitionSpace": 514000,
+    "totalSpace": 1500000
+  },
+  {
+    "name": "David L. Lawrence Convention Center",
+    "city": "Pittsburgh",
+    "exhibitionSpace": 330000,
+    "totalSpace": 1450000
+  },
+  {
+    "name": "NRG Center",
+    "city": "Houston",
+    "exhibitionSpace": 706000,
+    "totalSpace": 1400000
+  },
+  {
+    "name": "Indiana Convention Center",
+    "city": "Indianapolis",
+    "exhibitionSpace": 566600,
+    "totalSpace": 1300000
+  },
+  {
+    "name": "Baltimore Convention Center",
+    "city": "Baltimore",
+    "exhibitionSpace": 425000,
+    "totalSpace": 1225000
+  },
+  {
+    "name": "Kentucky Exposition Center",
+    "city": "Louisville, KY",
+    "exhibitionSpace": "",
+    "totalSpace": 1200000
+  },
+  {
+    "name": "CenturyLink Center Omaha",
+    "city": "Omaha, Nebraska",
+    "exhibitionSpace": 194000,
+    "totalSpace": 1100000
+  },
+  {
+    "name": "Hawaii Convention Center",
+    "city": "Honolulu",
+    "exhibitionSpace": "",
+    "totalSpace": 1100000
+  },
+  {
+    "name": "World Equestrian Center",
+    "city": "Ocala, FL",
+    "exhibitionSpace": 1026500,
+    "totalSpace": 1036100
+  },
+  {
+    "name": "Huntington Convention Center",
+    "city": "Cleveland",
+    "exhibitionSpace": 767000,
+    "totalSpace": 1002000
+  },
+  {
+    "name": "Donald E. Stephens Convention Center",
+    "city": "Rosemont, IL",
+    "exhibitionSpace": 840000,
+    "totalSpace": 1000000
+  },
+  {
+    "name": "Miami Beach Convention Center",
+    "city": "Miami Beach, FL",
+    "exhibitionSpace": 502000,
+    "totalSpace": 1000000
+  },
+  {
+    "name": "Atlantic City Convention Center",
+    "city": "Atlantic City, NJ",
+    "exhibitionSpace": 500000,
+    "totalSpace": 1000000
+  },
+  {
+    "name": "Oregon Convention Center",
+    "city": "Portland, OR",
+    "exhibitionSpace": 255000,
+    "totalSpace": 1000000
+  },
+  {
+    "name": "Seattle Convention Center",
+    "city": "Seattle",
+    "exhibitionSpace": 485150,
+    "totalSpace": 988422
+  },
+  {
+    "name": "Boston Convention and Exhibition Center",
+    "city": "Boston",
+    "exhibitionSpace": 516000,
+    "totalSpace": 976000
+  },
+  {
+    "name": "Phoenix Convention Center",
+    "city": "Phoenix, AZ",
+    "exhibitionSpace": 312000,
+    "totalSpace": 900000
+  },
+  {
+    "name": "Austin Convention Center",
+    "city": "Austin, TX",
+    "exhibitionSpace": 246092,
+    "totalSpace": 881400
+  },
+  {
+    "name": "Los Angeles Convention Center",
+    "city": "Los Angeles",
+    "exhibitionSpace": 720000,
+    "totalSpace": 867000
+  },
+  {
+    "name": "Charlotte Convention Center",
+    "city": "Charlotte, NC",
+    "exhibitionSpace": 280000,
+    "totalSpace": 850000
+  },
+  {
+    "name": "Bartle Hall",
+    "city": "Kansas City, MO",
+    "exhibitionSpace": 388000,
+    "totalSpace": 800000
+  },
+  {
+    "name": "Georgia National Fairgrounds",
+    "city": "Perry, GA",
+    "exhibitionSpace": 738204,
+    "totalSpace": 781831
+  },
+  {
+    "name": "Salt Palace Convention Center",
+    "city": "Salt Lake City",
+    "exhibitionSpace": 515000,
+    "totalSpace": 679000
+  },
+  {
+    "name": "Greensboro Coliseum Complex",
+    "city": "Greensboro, NC",
+    "exhibitionSpace": 200988,
+    "totalSpace": 647000
+  },
+  {
+    "name": "Pennsylvania Farm Show Complex and Expo Center",
+    "city": "Harrisburg, PA",
+    "exhibitionSpace": 593872,
+    "totalSpace": 634507
+  },
+  {
+    "name": "Broward County Convention Center",
+    "city": "Ft. Lauderdale, FL",
+    "exhibitionSpace": 350000,
+    "totalSpace": 600000
+  },
+  {
+    "name": "Tampa Convention Center",
+    "city": "Tampa, Florida",
+    "exhibitionSpace": 200000,
+    "totalSpace": 600000
+  },
+  {
+    "name": "Long Beach Convention and Entertainment Center",
+    "city": "Long Beach, California",
+    "exhibitionSpace": 299000,
+    "totalSpace": 572387
+  },
+  {
+    "name": "Expo Square",
+    "city": "Tulsa, Oklahoma",
+    "exhibitionSpace": "",
+    "totalSpace": 570508
+  },
+  {
+    "name": "San Jose Convention Center",
+    "city": "San Jose, California",
+    "exhibitionSpace": 165000,
+    "totalSpace": 550000
+  },
+  {
+    "name": "Alliant Energy Center",
+    "city": "Madison, Wisconsin",
+    "exhibitionSpace": 495000,
+    "totalSpace": 522900
+  },
+  {
+    "name": "Mississippi State Fair grounds",
+    "city": "Jackson, Mississippi",
+    "exhibitionSpace": 458449,
+    "totalSpace": 505449
+  },
+  {
+    "name": "Raleigh Convention Center",
+    "city": "Raleigh, North Carolina",
+    "exhibitionSpace": 150000,
+    "totalSpace": 500000
+  },
+  {
+    "name": "Suburban Collection Showplace",
+    "city": "Novi, Michigan",
+    "exhibitionSpace": 305000,
+    "totalSpace": 460000
+  },
+  {
+    "name": "Hynes Convention Center",
+    "city": "Boston",
+    "exhibitionSpace": 176480,
+    "totalSpace": 427800
+  },
+  {
+    "name": "Spokane Convention Center",
+    "city": "Spokane, Washington",
+    "exhibitionSpace": 120000,
+    "totalSpace": 390000
+  },
+  {
+    "name": "Lancaster Event Center",
+    "city": "Lincoln, Nebraska",
+    "exhibitionSpace": 358453,
+    "totalSpace": 387153
+  },
+  {
+    "name": "Reno-Sparks Convention Center",
+    "city": "Reno, Nevada",
+    "exhibitionSpace": 381000,
+    "totalSpace": ""
+  },
+  {
+    "name": "Duke Energy Convention Center",
+    "city": "Cincinnati, Ohio",
+    "exhibitionSpace": 195320,
+    "totalSpace": 366200
+  },
+  {
+    "name": "Illinois State Fairgrounds",
+    "city": "Springfield, Illinois",
+    "exhibitionSpace": 334406,
+    "totalSpace": 358882
+  },
+  {
+    "name": "Eastern States Exposition Complex",
+    "city": "West Springfield, Massachusetts",
+    "exhibitionSpace": "",
+    "totalSpace": 355400
+  },
+  {
+    "name": "Fairplex",
+    "city": "Pomona, California",
+    "exhibitionSpace": 312820,
+    "totalSpace": 342820
+  },
+  {
+    "name": "Brazos County Expo",
+    "city": "Bryan, Texas",
+    "exhibitionSpace": 293000,
+    "totalSpace": 341000
+  },
+  {
+    "name": "Greenville Convention Center",
+    "city": "Greenville, South Carolina",
+    "exhibitionSpace": 280000,
+    "totalSpace": 340000
+  },
+  {
+    "name": "Portland Expo Center",
+    "city": "Portland, Oregon",
+    "exhibitionSpace": 324000,
+    "totalSpace": 339433
+  },
+  {
+    "name": "Birmingham Jefferson Convention Complex",
+    "city": "Birmingham, Alabama",
+    "exhibitionSpace": 220000,
+    "totalSpace": 320000
+  },
+  {
+    "name": "Mississippi Coast Coliseum and Convention Center",
+    "city": "Biloxi, Mississippi",
+    "exhibitionSpace": 158112,
+    "totalSpace": 314221
+  },
+  {
+    "name": "Amarillo National Center/Tri-State Expo Center",
+    "city": "Amarillo, Texas",
+    "exhibitionSpace": 219150,
+    "totalSpace": 311180
+  },
+  {
+    "name": "SAFE Credit Union Convention Center",
+    "city": "Sacramento, California",
+    "exhibitionSpace": 159709,
+    "totalSpace": 308952
+  },
+  {
+    "name": "Georgia International Convention Center",
+    "city": "College Park, Georgia",
+    "exhibitionSpace": 150000,
+    "totalSpace": 295000
+  },
+  {
+    "name": "Albuquerque Convention Center",
+    "city": "Albuquerque, New Mexico",
+    "exhibitionSpace": 166543,
+    "totalSpace": 280837
+  },
+  {
+    "name": "Iowa Events Center",
+    "city": "Des Moines, Iowa",
+    "exhibitionSpace": 150000,
+    "totalSpace": 280132
+  },
+  {
+    "name": "Earth Expo and Sky Convention Centers",
+    "city": "Uncasville, Connecticut",
+    "exhibitionSpace": 125000,
+    "totalSpace": 275000
+  },
+  {
+    "name": "Tony Nelssen Equestrian Center",
+    "city": "Scottsdale, Arizona",
+    "exhibitionSpace": "",
+    "totalSpace": 274000
+  },
+  {
+    "name": "RiverCentre/Roy Wilkins Auditorium/Xcel Energy Center",
+    "city": "St. Paul, Minnesota",
+    "exhibitionSpace": 159800,
+    "totalSpace": 266290
+  },
+  {
+    "name": "Prime F. Osborn III Convention Center",
+    "city": "Jacksonville, Florida",
+    "exhibitionSpace": "",
+    "totalSpace": 265000
+  },
+  {
+    "name": "Greater Richmond Convention Center",
+    "city": "Richmond, Virginia",
+    "exhibitionSpace": 178158,
+    "totalSpace": 258708
+  },
+  {
+    "name": "Mountain America Exposition Center",
+    "city": "Sandy, Utah",
+    "exhibitionSpace": 243000,
+    "totalSpace": 258000
+  },
+  {
+    "name": "Del Mar Fairgrounds",
+    "city": "Del Mar, California",
+    "exhibitionSpace": 232050,
+    "totalSpace": 252050
+  },
+  {
+    "name": "Cow Palace",
+    "city": "Daly City, California",
+    "exhibitionSpace": 170254,
+    "totalSpace": 250000
+  },
+  {
+    "name": "Renasant Convention Center",
+    "city": "Memphis, Tennessee",
+    "exhibitionSpace": 125000,
+    "totalSpace": 249623
+  },
+  {
+    "name": "Burton Complex",
+    "city": "Lake Charles, Louisiana",
+    "exhibitionSpace": 235000,
+    "totalSpace": 243000
+  },
+  {
+    "name": "National Sports Center",
+    "city": "Blaine, Minnesota",
+    "exhibitionSpace": 224000,
+    "totalSpace": 242340
+  },
+  {
+    "name": "Maryland State Fairgrounds",
+    "city": "Timonium, Maryland",
+    "exhibitionSpace": 215550,
+    "totalSpace": 240020
+  },
+  {
+    "name": "Greater Philadelphia Expo Center",
+    "city": "Oaks, Pennsylvania",
+    "exhibitionSpace": "",
+    "totalSpace": 240000
+  },
+  {
+    "name": "Century II Convention and Performing Arts Center",
+    "city": "Wichita, Kansas",
+    "exhibitionSpace": 198800,
+    "totalSpace": 238080
+  },
+  {
+    "name": "Mobile Convention Center",
+    "city": "Mobile, Alabama",
+    "exhibitionSpace": 100000,
+    "totalSpace": 234106
+  },
+  {
+    "name": "Arizona State Fairgrounds",
+    "city": "Phoenix, Arizona",
+    "exhibitionSpace": 213080,
+    "totalSpace": 232424
+  },
+  {
+    "name": "Lone Star Convention Center",
+    "city": "Conroe, Texas",
+    "exhibitionSpace": 156000,
+    "totalSpace": 228100
+  },
+  {
+    "name": "Wisconsin Center",
+    "city": "Milwaukee, Wisconsin",
+    "exhibitionSpace": 188695,
+    "totalSpace": 226201
+  },
+  {
+    "name": "International Agri-Center",
+    "city": "Tulare, California",
+    "exhibitionSpace": 193300,
+    "totalSpace": 221966
+  },
+  {
+    "name": "Statehouse Convention Center",
+    "city": "Little Rock, Arkansas",
+    "exhibitionSpace": 82892,
+    "totalSpace": 220000
+  },
+  {
+    "name": "Tucson Convention Center",
+    "city": "Tucson, Arizona",
+    "exhibitionSpace": 133840,
+    "totalSpace": 218821
+  },
+  {
+    "name": "Cobb Galleria Centre",
+    "city": "Cumberland, Georgia",
+    "exhibitionSpace": 144000,
+    "totalSpace": 218500
+  },
+  {
+    "name": "Devos Place Convention Center",
+    "city": "Grand Rapids, Michigan",
+    "exhibitionSpace": 162000,
+    "totalSpace": 217643
+  },
+  {
+    "name": "Montana Expo Park",
+    "city": "Great Falls, Montana",
+    "exhibitionSpace": 179280,
+    "totalSpace": 210279
+  },
+  {
+    "name": "Virginia Beach Convention Center",
+    "city": "Virginia Beach, Virginia",
+    "exhibitionSpace": 150012,
+    "totalSpace": 210264
+  },
+  {
+    "name": "Deschutes County Expo Center",
+    "city": "Redmond, Oregon",
+    "exhibitionSpace": 175934,
+    "totalSpace": 209670
+  },
+  {
+    "name": "Glass City Center/Huntington Center",
+    "city": "Toledo, Ohio",
+    "exhibitionSpace": 95400,
+    "totalSpace": 205128
+  },
+  {
+    "name": "American Bank Center",
+    "city": "Corpus Christi, Texas",
+    "exhibitionSpace": 100500,
+    "totalSpace": 202331
+  },
+  {
+    "name": "Duluth Entertainment and Convention Center and Amsoil Arena",
+    "city": "Duluth, Minnesota",
+    "exhibitionSpace": 106832,
+    "totalSpace": 202194
+  },
+  {
+    "name": "Bismarck Event Center",
+    "city": "Bismarck, North Dakota",
+    "exhibitionSpace": 146000,
+    "totalSpace": 200000
+  },
+  {
+    "name": "Broadmoor Convention Center",
+    "city": "Colorado Springs, Colorado",
+    "exhibitionSpace": 92500,
+    "totalSpace": 200000
+  },
+  {
+    "name": "Tucson Expo Center",
+    "city": "Tucson, Arizona",
+    "exhibitionSpace": 138987,
+    "totalSpace": 199512
+  },
+  {
+    "name": "Lane Events Center",
+    "city": "Eugene, Oregon",
+    "exhibitionSpace": 153980,
+    "totalSpace": 194438
+  },
+  {
+    "name": "Charleston Area Convention Center/North Charleston Coliseum",
+    "city": "North Charleston, South Carolina",
+    "exhibitionSpace": 106960,
+    "totalSpace": 192241
+  },
+  {
+    "name": "North Dakota State Fair Center/All Seasons Arena",
+    "city": "Minot, North Dakota",
+    "exhibitionSpace": 135280,
+    "totalSpace": 192176
+  },
+  {
+    "name": "Connecticut Convention Center",
+    "city": "Hartford, Connecticut",
+    "exhibitionSpace": 140000,
+    "totalSpace": 191500
+  },
+  {
+    "name": "Von Braun Center",
+    "city": "Huntsville, Alabama",
+    "exhibitionSpace": 148320,
+    "totalSpace": 191320
+  },
+  {
+    "name": "National Cattle Congress Complex",
+    "city": "Waterloo, Iowa",
+    "exhibitionSpace": 157280,
+    "totalSpace": 190930
+  },
+  {
+    "name": "Peoria Civic Center",
+    "city": "Peoria, Illinois",
+    "exhibitionSpace": 136068,
+    "totalSpace": 189090
+  },
+  {
+    "name": "Raising Cane's River Center",
+    "city": "Baton Rouge, Louisiana",
+    "exhibitionSpace": 100000,
+    "totalSpace": 185220
+  },
+  {
+    "name": "San Mateo County Event Center",
+    "city": "San Mateo, California",
+    "exhibitionSpace": 181780,
+    "totalSpace": 182440
+  },
+  {
+    "name": "Roland E. Powell Convention Center",
+    "city": "Ocean City, Maryland",
+    "exhibitionSpace": "",
+    "totalSpace": 182200
+  },
+  {
+    "name": "Resch Center and Expo",
+    "city": "Green Bay, Wisconsin",
+    "exhibitionSpace": 153563,
+    "totalSpace": 180218
+  },
+  {
+    "name": "Ocean Center",
+    "city": "Daytona Beach, Florida",
+    "exhibitionSpace": 135174,
+    "totalSpace": 179078
+  },
+  {
+    "name": "Allen County War Memorial Coliseum",
+    "city": "Fort Wayne, Indiana",
+    "exhibitionSpace": 152000,
+    "totalSpace": 179000
+  },
+  {
+    "name": "Fair Expo Center",
+    "city": "Sweetwater, Florida",
+    "exhibitionSpace": 162521,
+    "totalSpace": 178063
+  },
+  {
+    "name": "Delaware State Fairgrounds",
+    "city": "Harrington, Delaware",
+    "exhibitionSpace": "",
+    "totalSpace": 177625
+  },
+  {
+    "name": "Oncenter",
+    "city": "Syracuse, New York",
+    "exhibitionSpace": 143939,
+    "totalSpace": 177329
+  },
+  {
+    "name": "Multipurpose Event Center",
+    "city": "Wichita Falls, Texas",
+    "exhibitionSpace": "",
+    "totalSpace": 177300
+  },
+  {
+    "name": "Knoxville Convention Center",
+    "city": "Knoxville, Tennessee",
+    "exhibitionSpace": 119922,
+    "totalSpace": 173222
+  },
+  {
+    "name": "Albany Capital Center/Empire State Plaza/MVP Arena",
+    "city": "Albany, New York",
+    "exhibitionSpace": 113248,
+    "totalSpace": 172798
+  },
+  {
+    "name": "York Expo Center",
+    "city": "York, Pennsylvania",
+    "exhibitionSpace": 161914,
+    "totalSpace": 172545
+  },
+  {
+    "name": "Bell County Expo Center",
+    "city": "Belton, Texas",
+    "exhibitionSpace": 149000,
+    "totalSpace": 170900
+  },
+  {
+    "name": "Springfield Expo Center/University Plaza Convention Center",
+    "city": "Springfield, Missouri",
+    "exhibitionSpace": 98000,
+    "totalSpace": 170000
+  },
+  {
+    "name": "The Monument",
+    "city": "Rapid City, South Dakota",
+    "exhibitionSpace": 122702,
+    "totalSpace": 169552
+  },
+  {
+    "name": "Orange County Fair and Event Center",
+    "city": "Costa Mesa, California",
+    "exhibitionSpace": 144877,
+    "totalSpace": 168226
+  },
+  {
+    "name": "Stormont Vail Events Center",
+    "city": "Topeka, Kansas",
+    "exhibitionSpace": 149403,
+    "totalSpace": 167203
+  },
+  {
+    "name": "Linn County Expo Center",
+    "city": "Albany, Oregon",
+    "exhibitionSpace": 159000,
+    "totalSpace": 167000
+  },
+  {
+    "name": "Rhode Island Convention Center",
+    "city": "Providence, Rhode Island",
+    "exhibitionSpace": 100000,
+    "totalSpace": 167000
+  },
+  {
+    "name": "Taylor County Expo Center",
+    "city": "Abilene, Texas",
+    "exhibitionSpace": 137000,
+    "totalSpace": 163000
+  },
+  {
+    "name": "Benton Convention Center",
+    "city": "Winston-Salem, North Carolina",
+    "exhibitionSpace": "",
+    "totalSpace": 162600
+  },
+  {
+    "name": "Chattanooga Convention Center",
+    "city": "Chattanooga, Tennessee",
+    "exhibitionSpace": 100800,
+    "totalSpace": 160580
+  },
+  {
+    "name": "Denny Sanford Premier Center/Sioux Falls Arena and Convention Center",
+    "city": "Sioux Falls, South Dakota",
+    "exhibitionSpace": 100400,
+    "totalSpace": 160000
+  },
+  {
+    "name": "Extraco Events Center",
+    "city": "Waco, Texas",
+    "exhibitionSpace": 157818,
+    "totalSpace": 158560
+  },
+  {
+    "name": "Alerus Center",
+    "city": "Grand Forks, North Dakota",
+    "exhibitionSpace": 99600,
+    "totalSpace": 156188
+  },
+  {
+    "name": "Dena'ina Civic and Convention Center",
+    "city": "Anchorage, Alaska",
+    "exhibitionSpace": 72240,
+    "totalSpace": 154444
+  },
+  {
+    "name": "Gas South Arena and Convention Center",
+    "city": "Duluth, Georgia",
+    "exhibitionSpace": 107000,
+    "totalSpace": 153422
+  },
+  {
+    "name": "Island Grove",
+    "city": "Greeley, Colorado",
+    "exhibitionSpace": 112400,
+    "totalSpace": 151138
+  },
+  {
+    "name": "New Jersey Convention and Exhibition Center",
+    "city": "Edison, New Jersey",
+    "exhibitionSpace": 135000,
+    "totalSpace": 150000
+  },
+  {
+    "name": "Central Bank Center/Rupp Arena",
+    "city": "Lexington, Kentucky",
+    "exhibitionSpace": 100000,
+    "totalSpace": 150000
+  },
+  {
+    "name": "Savannah Convention Center",
+    "city": "Savannah, Georgia",
+    "exhibitionSpace": 100000,
+    "totalSpace": 150000
+  },
+  {
+    "name": "Mayo Civic Center",
+    "city": "Rochester, Minnesota",
+    "exhibitionSpace": 66010,
+    "totalSpace": 149306
+  },
+  {
+    "name": "Golden Spike Event Center",
+    "city": "Ogden, Utah",
+    "exhibitionSpace": 100610,
+    "totalSpace": 149250
+  },
+  {
+    "name": "Chisholm Trail Expo Center",
+    "city": "Enid, Oklahoma",
+    "exhibitionSpace": 118928,
+    "totalSpace": 148405
+  },
+  {
+    "name": "South Carolina State Fairgrounds",
+    "city": "Columbia, South Carolina",
+    "exhibitionSpace": 138136,
+    "totalSpace": 147956
+  },
+  {
+    "name": "Buffalo County Exposition Center/Ag Pavilion/Exhibit Building",
+    "city": "Kearney, Nebraska",
+    "exhibitionSpace": 136500,
+    "totalSpace": 146500
+  },
+  {
+    "name": "Metrapark",
+    "city": "Billings, Montana",
+    "exhibitionSpace": "",
+    "totalSpace": 145400
+  },
+  {
+    "name": "Ector County Coliseum",
+    "city": "Odessa, Texas",
+    "exhibitionSpace": "",
+    "totalSpace": 145000
+  },
+  {
+    "name": "Palm Beach County Convention Center",
+    "city": "West Palm Beach, Florida",
+    "exhibitionSpace": 100000,
+    "totalSpace": 143000
+  },
+  {
+    "name": "Tacoma Dome",
+    "city": "Tacoma, Washington",
+    "exhibitionSpace": "",
+    "totalSpace": 138800
+  },
+  {
+    "name": "Klamath County Event Center",
+    "city": "Klamath Falls, Oregon",
+    "exhibitionSpace": 128225,
+    "totalSpace": 137425
+  },
+  {
+    "name": "Judson F. Williams Convention Center",
+    "city": "El Paso, Texas",
+    "exhibitionSpace": 80000,
+    "totalSpace": 133000
+  },
+  {
+    "name": "Northwest Washington State Fair and Events Center",
+    "city": "Lynden, Washington",
+    "exhibitionSpace": 95700,
+    "totalSpace": 132200
+  },
+  {
+    "name": "Myrtle Beach Convention Center",
+    "city": "Myrtle Beach, South Carolina",
+    "exhibitionSpace": 100800,
+    "totalSpace": 132041
+  },
+  {
+    "name": "Oregon State Fair and Exposition Center",
+    "city": "Salem, Oregon",
+    "exhibitionSpace": 114504,
+    "totalSpace": 131102
+  },
+  {
+    "name": "Palm Springs Convention Center",
+    "city": "Palm Springs, California",
+    "exhibitionSpace": 92545,
+    "totalSpace": 128450
+  },
+  {
+    "name": "Fargodome",
+    "city": "Fargo, North Dakota",
+    "exhibitionSpace": 100000,
+    "totalSpace": 128379
+  },
+  {
+    "name": "Paducah-McCracken County Convention and Expo Center",
+    "city": "Paducah, Kentucky",
+    "exhibitionSpace": 80000,
+    "totalSpace": 126360
+  },
+  {
+    "name": "McGee Park",
+    "city": "Farmington, New Mexico",
+    "exhibitionSpace": 78500,
+    "totalSpace": 124118
+  },
+  {
+    "name": "Lansing Center",
+    "city": "Lansing, Michigan",
+    "exhibitionSpace": 71760,
+    "totalSpace": 124118
+  },
+  {
+    "name": "National Orange Show Events Center",
+    "city": "San Bernardino, California",
+    "exhibitionSpace": 96000,
+    "totalSpace": 124100
+  },
+  {
+    "name": "Western North Carolina Agricultural Center",
+    "city": "Fletcher, North Carolina",
+    "exhibitionSpace": 101550,
+    "totalSpace": 121150
+  },
+  {
+    "name": "Charleston Coliseum and Convention Center",
+    "city": "Charleston, West Virginia",
+    "exhibitionSpace": 80586,
+    "totalSpace": 120526
+  },
+  {
+    "name": "Buffalo Niagara Convention Center",
+    "city": "Buffalo, New York",
+    "exhibitionSpace": 64000,
+    "totalSpace": 110000
+  }
+]
